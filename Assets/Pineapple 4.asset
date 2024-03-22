@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b665490758c4efc4fac6c08fcf1da52c, type: 3}
+  m_Name: Pineapple 4
+  m_EditorClassIdentifier: 
+  stockId: 1
+  stockName: Pineapple
+  currentMoneyValue: 1000
+  stockSprite: {fileID: 21300000, guid: 2cf611899a12db64b87c85c5f414ebac, type: 3}
+  fluctuation: 0
